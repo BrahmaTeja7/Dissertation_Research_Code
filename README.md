@@ -7,5 +7,5 @@ This readme file serves a guide in running the python in google collab to view t
 Numpy, Pandas, Sklearn, String, Time, matplotlib, seaborn
 
 # Steps involved in running the code in google collab.
-#### 1. Open both the 
+#### 1. Ope
 #### 2. Load the dataset named "Fake&True_News.csv" in to google collab from the zipped folder of artefacts uploaded as a part of dissertation.
