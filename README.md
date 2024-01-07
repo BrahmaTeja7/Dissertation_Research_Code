@@ -1,3 +1,5 @@
+# Dublin Business School
+
 # Comparative Analysis of Machine Learning Algorithms in detection of Fake News
 
 # Introduction
