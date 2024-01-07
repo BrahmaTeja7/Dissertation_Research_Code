@@ -3,7 +3,7 @@
 # Introduction
 #### This readme file serves a guide in running the python in google collab to view the outcomes of the machine learning models in detection of fake news.
 
-# Libraries required:
+# Libraries required
 #### Numpy, Pandas, Sklearn, String, Time, matplotlib, seaborn
 
 # Models selected for the research
